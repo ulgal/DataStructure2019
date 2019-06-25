@@ -1,0 +1,43 @@
+123 ms
+151 ms
+140 ms
+116 ms
+101 ms
+92 ms
+109 ms
+125 ms
+123 ms
+135 ms
+
+36 ms
+77 ms
+41 ms
+53 ms
+96 ms
+41 ms
+71 ms
+83 ms
+76 ms
+62 ms
+
+21 ms
+43 ms
+21 ms
+46 ms
+48 ms
+27 ms
+65 ms
+33 ms
+29 ms
+65 ms
+
+21 ms
+37 ms
+22 ms
+56 ms
+45 ms
+32 ms
+50 ms
+20 ms
+27 ms
+46 ms

@@ -1,0 +1,43 @@
+1044 ms
+897 ms
+895 ms
+899 ms
+871 ms
+874 ms
+869 ms
+921 ms
+868 ms
+946 ms
+
+1100 ms
+887 ms
+902 ms
+877 ms
+875 ms
+874 ms
+874 ms
+918 ms
+876 ms
+893 ms
+
+921 ms
+867 ms
+899 ms
+874 ms
+873 ms
+878 ms
+873 ms
+874 ms
+880 ms
+944 ms
+
+903 ms
+875 ms
+911 ms
+884 ms
+869 ms
+875 ms
+867 ms
+876 ms
+913 ms
+894 ms

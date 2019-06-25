@@ -1,0 +1,43 @@
+48 ms
+51 ms
+48 ms
+50 ms
+54 ms
+61 ms
+40 ms
+53 ms
+55 ms
+48 ms
+
+18 ms
+21 ms
+24 ms
+24 ms
+21 ms
+13 ms
+34 ms
+13 ms
+23 ms
+22 ms
+
+11 ms
+12 ms
+12 ms
+12 ms
+31 ms
+12 ms
+12 ms
+12 ms
+11 ms
+11 ms
+
+31 ms
+29 ms
+12 ms
+30 ms
+12 ms
+30 ms
+12 ms
+12 ms
+29 ms
+12 ms
